@@ -4,7 +4,7 @@ This is a simple web application that displays random Chuck Norris jokes fetched
 ![img](image.png)
 
 ## Demo
-[Live Demo](https://demirfirat.github.io/Chuck-Norris-Joke/),
+[Live Demo](https://demirfirat.github.io/Chuck-Norris-Joke/).
 
 ## How It Works
 
