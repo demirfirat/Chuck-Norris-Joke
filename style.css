@@ -17,8 +17,8 @@ body {
     margin: 70px;
 }
 img{
-    max-width: 30%;
-    -webkit-filter: brightness(50%);
+    max-width: 50%;
+    -webkit-filter: brightness(100%);
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
     -o-transition: all 1s ease;
@@ -26,9 +26,10 @@ img{
     transition: all 1s ease;
 }
 img:hover{
-    -webkit-filter: brightness(100%);
+    -webkit-filter: brightness(50%);
 }
 .content{
+    max-width: 100%;
    background-color: white;
    display: flex;
    flex-direction: column;
